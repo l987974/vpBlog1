@@ -1,0 +1,22 @@
+{
+  "name": "blog-vp",
+  "version": "0.0.1",
+  "description": "blog-vuepress",
+  "main": "index.js",
+  "authors": {
+    "name": "luowenjia",
+    "email": "623240673@qq.com"
+  },
+  "repository": "/blog-vp",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^1.0.0",
+    "create-vuepress": "^0.0.12",
+    "vuepress": "^1.0.0"
+  },
+  "author": "ALuoJia <987974531@qq.com>"
+}
